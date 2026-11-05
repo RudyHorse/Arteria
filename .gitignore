@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+backend/venv/
+backend/uploads/
+uploads/
+backend/blood_analysis.db
+blood_analysis.db
+.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
